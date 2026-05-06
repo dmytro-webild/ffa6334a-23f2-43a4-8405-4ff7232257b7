@@ -70,7 +70,7 @@ export default function LandingPage() {
           href: "https://maps.app.goo.gl/Wb4rbCYVA1CjzAcu8",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -89,7 +89,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/table-set-dinning-table_1339-3406.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/chocolate-fondue-with-sugar-dust-vanilla-ice-cream-image_114579-2313.jpg?_wi=2",
           imageAlt: "delicious cafe food photography",
         },
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/young-friends-enjoying-time-together_23-2148395394.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/slice-medovic-cake-white-plate_114579-17175.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/slice-medovic-cake-white-plate_114579-17175.jpg?_wi=1",
           imageAlt: "delicious cafe food photography",
         },
         {
@@ -113,7 +113,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/side-view-baked-fish-fillet-garnished-with-vegetables-spices-sauce-plate_140725-11497.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/apple-cocktail-with-flowers-hand_140725-407.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/apple-cocktail-with-flowers-hand_140725-407.jpg?_wi=1",
           imageAlt: "delicious cafe food photography",
         },
       ]}
@@ -137,7 +137,7 @@ export default function LandingPage() {
           price: "₹299",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-photo/slice-medovic-cake-white-plate_114579-17175.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/slice-medovic-cake-white-plate_114579-17175.jpg?_wi=2",
         },
         {
           id: "2",
@@ -146,7 +146,7 @@ export default function LandingPage() {
           price: "₹149",
           rating: 5,
           reviewCount: "85",
-          imageSrc: "http://img.b2bpic.net/free-photo/apple-cocktail-with-flowers-hand_140725-407.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/apple-cocktail-with-flowers-hand_140725-407.jpg?_wi=2",
         },
         {
           id: "3",
