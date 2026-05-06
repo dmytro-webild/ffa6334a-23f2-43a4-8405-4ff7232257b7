@@ -57,7 +57,7 @@ export default function LandingPage() {
         {
           text: "View Location",          href: "https://maps.app.goo.gl/Wb4rbCYVA1CjzAcu8"},
       ]}
-      imageSrc="https://img.freepik.com/free-photo/gourmet-seared-duck-breast-with-roasted-vegetables-rich-sauce_84443-72273.jpg"
+      imageSrc="https://img.freepik.com/free-photo/gourmet-seared-duck-breast-with-roasted-vegetables-rich-sauce_84443-72273.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -78,7 +78,7 @@ export default function LandingPage() {
         },
         {
           title: "Delicious Food",          description: "Handcrafted meals, premium coffee, and refreshing beverages for every palate.",          phoneOne: {
-            imageSrc: "https://img.freepik.com/free-photo/gourmet-seared-duck-breast-with-roasted-vegetables-rich-sauce_84443-72273.jpg",            imageAlt: "delicious cafe food photography"
+            imageSrc: "https://img.freepik.com/free-photo/gourmet-seared-duck-breast-with-roasted-vegetables-rich-sauce_84443-72273.jpg?_wi=2",            imageAlt: "delicious cafe food photography"
           },
           phoneTwo: {
             imageSrc: "https://img.freepik.com/free-photo/table-set-dinning-table_1339-3406.jpg",            imageAlt: "delicious cafe food photography"
