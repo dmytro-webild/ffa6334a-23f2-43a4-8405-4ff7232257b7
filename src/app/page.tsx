@@ -107,26 +107,26 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "1",          brand: "Main Course",          name: "Signature Burger",          price: "₹299",          rating: 5,
+          id: "1",          brand: "Signature Favorites",          name: "Signature Burger",          price: "₹299",          rating: 5,
           reviewCount: "120",          imageSrc: "https://img.freepik.com/free-photo/slice-medovic-cake-white-plate_114579-17175.jpg"},
         {
-          id: "2",          brand: "Beverage",          name: "Premium Coffee",          price: "₹149",          rating: 5,
+          id: "2",          brand: "Recommended",          name: "Premium Coffee",          price: "₹149",          rating: 5,
           reviewCount: "85",          imageSrc: "https://img.freepik.com/free-photo/apple-cocktail-with-flowers-hand_140725-407.jpg"},
         {
           id: "3",          brand: "Healthy",          name: "Fresh Garden Salad",          price: "₹199",          rating: 4,
           reviewCount: "45",          imageSrc: "https://img.freepik.com/free-photo/tuna-salad-with-lettuce-olives-corn-tomatoes-top-view_114579-8289.jpg"},
         {
-          id: "4",          brand: "Dessert",          name: "Choco Fudge Cake",          price: "₹179",          rating: 5,
+          id: "4",          brand: "Signature Favorites",          name: "Choco Fudge Cake",          price: "₹179",          rating: 5,
           reviewCount: "60",          imageSrc: "https://img.freepik.com/free-photo/fried-lamb-topped-with-vanilla-ice-cream-placed-lipstick-perfume_140725-2520.jpg"},
         {
-          id: "5",          brand: "Main Course",          name: "Creamy Pasta",          price: "₹249",          rating: 4,
+          id: "5",          brand: "Recommended",          name: "Creamy Pasta",          price: "₹249",          rating: 4,
           reviewCount: "95",          imageSrc: "https://img.freepik.com/free-photo/chicken-breast-topped-with-fried-vegetables_140725-2712.jpg"},
         {
-          id: "6",          brand: "Beverage",          name: "Exotic Mocktail",          price: "₹199",          rating: 5,
+          id: "6",          brand: "Recommended",          name: "Exotic Mocktail",          price: "₹199",          rating: 5,
           reviewCount: "70",          imageSrc: "https://img.freepik.com/free-photo/glass-milky-cocktail-garnished-with-olive-apple-coffee-beans_140725-4853.jpg"},
       ]}
       title="Royal Menu"
-      description="Discover our signature dishes and refreshing beverages."
+      description="Discover our curated categories, from signature favorites to recommended refreshments."
     />
   </div>
 
